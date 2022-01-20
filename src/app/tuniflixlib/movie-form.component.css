@@ -1,0 +1,7 @@
+.movieForm{
+  box-shadow: 2px 2px 3px rgb(177, 196, 211);
+  border: solid 1px gray;
+  padding:1em;
+  margin: 1em;
+  background-color: beige;
+}
